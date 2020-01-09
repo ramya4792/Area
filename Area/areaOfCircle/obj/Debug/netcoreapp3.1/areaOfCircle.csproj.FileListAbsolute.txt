@@ -1,0 +1,10 @@
+E:\CoderGirl\C#\csharp-exercises\areaOfCircle\areaOfCircle\bin\Debug\netcoreapp3.1\areaOfCircle.exe
+E:\CoderGirl\C#\csharp-exercises\areaOfCircle\areaOfCircle\bin\Debug\netcoreapp3.1\areaOfCircle.deps.json
+E:\CoderGirl\C#\csharp-exercises\areaOfCircle\areaOfCircle\bin\Debug\netcoreapp3.1\areaOfCircle.runtimeconfig.json
+E:\CoderGirl\C#\csharp-exercises\areaOfCircle\areaOfCircle\bin\Debug\netcoreapp3.1\areaOfCircle.runtimeconfig.dev.json
+E:\CoderGirl\C#\csharp-exercises\areaOfCircle\areaOfCircle\bin\Debug\netcoreapp3.1\areaOfCircle.dll
+E:\CoderGirl\C#\csharp-exercises\areaOfCircle\areaOfCircle\bin\Debug\netcoreapp3.1\areaOfCircle.pdb
+E:\CoderGirl\C#\csharp-exercises\areaOfCircle\areaOfCircle\obj\Debug\netcoreapp3.1\areaOfCircle.AssemblyInfoInputs.cache
+E:\CoderGirl\C#\csharp-exercises\areaOfCircle\areaOfCircle\obj\Debug\netcoreapp3.1\areaOfCircle.AssemblyInfo.cs
+E:\CoderGirl\C#\csharp-exercises\areaOfCircle\areaOfCircle\obj\Debug\netcoreapp3.1\areaOfCircle.dll
+E:\CoderGirl\C#\csharp-exercises\areaOfCircle\areaOfCircle\obj\Debug\netcoreapp3.1\areaOfCircle.pdb
