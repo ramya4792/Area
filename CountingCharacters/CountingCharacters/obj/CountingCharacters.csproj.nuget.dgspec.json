@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\CoderGirl\\C#\\studios\\Area\\areaOfCircle\\areaOfCircle.csproj": {}
+    "E:\\CoderGirl\\C#\\studios\\CountingCharacters\\CountingCharacters\\CountingCharacters.csproj": {}
   },
   "projects": {
-    "E:\\CoderGirl\\C#\\studios\\Area\\areaOfCircle\\areaOfCircle.csproj": {
+    "E:\\CoderGirl\\C#\\studios\\CountingCharacters\\CountingCharacters\\CountingCharacters.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\CoderGirl\\C#\\studios\\Area\\areaOfCircle\\areaOfCircle.csproj",
-        "projectName": "areaOfCircle",
-        "projectPath": "E:\\CoderGirl\\C#\\studios\\Area\\areaOfCircle\\areaOfCircle.csproj",
+        "projectUniqueName": "E:\\CoderGirl\\C#\\studios\\CountingCharacters\\CountingCharacters\\CountingCharacters.csproj",
+        "projectName": "CountingCharacters",
+        "projectPath": "E:\\CoderGirl\\C#\\studios\\CountingCharacters\\CountingCharacters\\CountingCharacters.csproj",
         "packagesPath": "C:\\Users\\raju1\\.nuget\\packages\\",
-        "outputPath": "E:\\CoderGirl\\C#\\studios\\Area\\areaOfCircle\\obj\\",
+        "outputPath": "E:\\CoderGirl\\C#\\studios\\CountingCharacters\\CountingCharacters\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\raju1\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
